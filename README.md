@@ -2,6 +2,7 @@
 
 Author: Glen MacArthur
 
+
 ## Description
 
 * Recorded at 44.1khz 16bit mono
@@ -11,6 +12,25 @@ Author: Glen MacArthur
 
 Source: [http://www.bandshed.net/avldrumkits/](http://www.bandshed.net/avldrumkits/)
 Audio demo: [https://soundcloud.com/glen-macarthur/avl-drumkits-red-zeppelin-5pc](https://soundcloud.com/glen-macarthur/avl-drumkits-red-zeppelin-5pc)
+
+
+## Installation
+
+1) Download this repo and place in a folder on your harddrive.
+2) Install a [SFZ player](https://sfzformat.com/software/players/)
+
+
+## Usage
+
+1) Open your Digital Audio Workstation and add the SFZ player to a track.
+2) Open a SFZ file from the downloaded folder to load the samples.
+3) Play or program midi notes in the track to hear the samples being triggered.
+
+
+## Contact
+
+For more information please contact [Bandshed](http://www.bandshed.net)
+
 
 ## License
 
