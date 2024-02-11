@@ -1,0 +1,2943 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-Ludwig26Kick-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-Ludwig26Kick-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-Ludwig26Kick-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-Ludwig26Kick-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-Ludwig26Kick-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Sidestick2-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Sidestick2-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Sidestick2-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Sidestick2-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Sidestick2-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-PorkpieSnare-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-PorkpieSnare-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-PorkpieSnare-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-PorkpieSnare-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-PorkpieSnare-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-HandClap-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-HandClap-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-HandClap-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-HandClap-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-HandClap-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-PorkpieSnareEdge-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-PorkpieSnareEdge-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-PorkpieSnareEdge-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-PorkpieSnareEdge-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-PorkpieSnareEdge-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-Ludwig16FloorTom-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-Ludwig16FloorTom-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-Ludwig16FloorTom-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-Ludwig16FloorTom-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-Ludwig16FloorTom-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-36'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-SabianRockHatClosed-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-SabianRockHatClosed-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-SabianRockHatClosed-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-SabianRockHatClosed-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-SabianRockHatClosed-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-Ludwig16FloorTomEdge-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-Ludwig16FloorTomEdge-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-Ludwig16FloorTomEdge-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-Ludwig16FloorTomEdge-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-Ludwig16FloorTomEdge-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-36'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-SabianRockHatPedal-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-SabianRockHatPedal-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-SabianRockHatPedal-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-SabianRockHatPedal-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-SabianRockHatPedal-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-16'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Ludwig14Tom-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Ludwig14Tom-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Ludwig14Tom-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Ludwig14Tom-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Ludwig14Tom-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-36'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: offby
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-SabianRockHatSemiOpen-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-SabianRockHatSemiOpen-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-SabianRockHatSemiOpen-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-SabianRockHatSemiOpen-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-SabianRockHatSemiOpen-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-16'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-Ludwig14TomEdge-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-Ludwig14TomEdge-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-Ludwig14TomEdge-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-Ludwig14TomEdge-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-Ludwig14TomEdge-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-36'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: offby
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-SabianRockHatSwish-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-SabianRockHatSwish-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-SabianRockHatSwish-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-SabianRockHatSwish-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-SabianRockHatSwish-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/49-ZildjianA20Crash-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/49-ZildjianA20Crash-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/49-ZildjianA20Crash-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/49-ZildjianA20Crash-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/49-ZildjianA20Crash-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: offby
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/50-ZildjianA20CrashChoke.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/51-ZildjianA24Ride-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/51-ZildjianA24Ride-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/51-ZildjianA24Ride-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/51-ZildjianA24Ride-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/51-ZildjianA24Ride-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: offby
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/52-ZildjianA24RideChoke.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/53-ZildjianA24RideBell-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/53-ZildjianA24RideBell-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/53-ZildjianA24RideBell-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/53-ZildjianA24RideBell-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/53-ZildjianA24RideBell-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/54-Tambourine-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/54-Tambourine-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/54-Tambourine-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/54-Tambourine-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/54-Tambourine-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-16'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/55-ZildjianA10Splash-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/55-ZildjianA10Splash-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/55-ZildjianA10Splash-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/55-ZildjianA10Splash-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/55-ZildjianA10Splash-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/56-Cowbell-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/56-Cowbell-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/56-Cowbell-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/56-Cowbell-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/56-Cowbell-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/57-ZildjianK17Crash-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/57-ZildjianK17Crash-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/57-ZildjianK17Crash-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/57-ZildjianK17Crash-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/57-ZildjianK17Crash-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: offby
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/58-ZildjianK17CrashChoke.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/59-ZildjianA24RideShank-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/59-ZildjianA24RideShank-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/59-ZildjianA24RideShank-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/59-ZildjianA24RideShank-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/59-ZildjianA24RideShank-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/60-Paiste2002-22-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/60-Paiste2002-22-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/60-Paiste2002-22-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/60-Paiste2002-22-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/60-Paiste2002-22-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/61-RotoTomHi-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/61-RotoTomHi-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/61-RotoTomHi-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/61-RotoTomHi-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/61-RotoTomHi-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/62-RotoTomMid-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/62-RotoTomMid-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/62-RotoTomMid-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/62-RotoTomMid-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/62-RotoTomMid-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/63-RotoTomLo-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/63-RotoTomLo-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/63-RotoTomLo-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/63-RotoTomLo-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/63-RotoTomLo-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/64-Maraca-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/64-Maraca-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/64-Maraca-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/64-Maraca-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/64-Maraca-5.ogg
+

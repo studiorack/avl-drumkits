@@ -1,0 +1,816 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="key" value="36" />
+	<opcode name="pan" value="0" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/36-Pearl22Kick-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/36-Pearl22Kick-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/36-Pearl22Kick-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/36-Pearl22Kick-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/36-Pearl22Kick-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="37" />
+	<opcode name="pan" value="-20" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/37-Sidestick2-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/37-Sidestick2-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/37-Sidestick2-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/37-Sidestick2-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/37-Sidestick2-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="38" />
+	<opcode name="pan" value="-20" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/38-PearlSnare2-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/38-PearlSnare2-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/38-PearlSnare2-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/38-PearlSnare2-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/38-PearlSnare2-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="39" />
+	<opcode name="pan" value="0" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/39-HandClap-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/39-HandClap-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/39-HandClap-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/39-HandClap-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/39-HandClap-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="40" />
+	<opcode name="pan" value="-20" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/40-PearlSnare2Edge-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/40-PearlSnare2Edge-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/40-PearlSnare2Edge-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/40-PearlSnare2Edge-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/40-PearlSnare2Edge-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="41" />
+	<opcode name="pan" value="40" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/41-Pearl16FloorTom-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/41-Pearl16FloorTom-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/41-Pearl16FloorTom-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/41-Pearl16FloorTom-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/41-Pearl16FloorTom-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="1" />
+	<opcode name="pan" value="-36" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="key" value="42" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/42-SabianRockHatClosed-1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/42-SabianRockHatClosed-2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/42-SabianRockHatClosed-3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/42-SabianRockHatClosed-4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/42-SabianRockHatClosed-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="43" />
+	<opcode name="pan" value="40" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/43-Pearl16FloorTomEdge-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/43-Pearl16FloorTomEdge-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/43-Pearl16FloorTomEdge-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/43-Pearl16FloorTomEdge-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/43-Pearl16FloorTomEdge-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="1" />
+	<opcode name="key" value="44" />
+	<opcode name="pan" value="-36" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="key" value="44" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/44-SabianRockHatPedal-1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/44-SabianRockHatPedal-2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/44-SabianRockHatPedal-3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/44-SabianRockHatPedal-4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/44-SabianRockHatPedal-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="45" />
+	<opcode name="pan" value="-16" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/45-Pearl12Tom-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/45-Pearl12Tom-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/45-Pearl12Tom-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/45-Pearl12Tom-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/45-Pearl12Tom-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="2" />
+	<opcode name="key" value="46" />
+	<opcode name="pan" value="-36" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="off_by" value="1" />
+	<opcode name="offby" value="1" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/46-SabianRockHatSemiOpen-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/46-SabianRockHatSemiOpen-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/46-SabianRockHatSemiOpen-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/46-SabianRockHatSemiOpen-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/46-SabianRockHatSemiOpen-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="47" />
+	<opcode name="pan" value="-16" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/47-Pearl13Tom2-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/47-Pearl13Tom2-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/47-Pearl13Tom2-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/47-Pearl13Tom2-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/47-Pearl13Tom2-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="3" />
+	<opcode name="key" value="48" />
+	<opcode name="pan" value="-36" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="off_by" value="1" />
+	<opcode name="offby" value="1" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/48-SabianRockHatSwish-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/48-SabianRockHatSwish-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/48-SabianRockHatSwish-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/48-SabianRockHatSwish-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/48-SabianRockHatSwish-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="6" />
+	<opcode name="key" value="49" />
+	<opcode name="pan" value="-24" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/49-SabianAA16Crash-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/49-SabianAA16Crash-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/49-SabianAA16Crash-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/49-SabianAA16Crash-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/49-SabianAA16Crash-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="7" />
+	<opcode name="key" value="50" />
+	<opcode name="pan" value="-24" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="off_by" value="6" />
+	<opcode name="offby" value="6" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="sample" value="Samples/50-SabianAA16CrashChoke.ogg" />
+</region>
+<group>
+	<opcode name="group" value="4" />
+	<opcode name="key" value="51" />
+	<opcode name="pan" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/51-SabianAAX20Ride-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/51-SabianAAX20Ride-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/51-SabianAAX20Ride-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/51-SabianAAX20Ride-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/51-SabianAAX20Ride-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="5" />
+	<opcode name="key" value="52" />
+	<opcode name="pan" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="off_by" value="4" />
+	<opcode name="offby" value="4" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="sample" value="Samples/52-SabianAAX20RideChoke.ogg" />
+</region>
+<group>
+	<opcode name="key" value="53" />
+	<opcode name="pan" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/53-SabianAAX20RideBell-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/53-SabianAAX20RideBell-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/53-SabianAAX20RideBell-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/53-SabianAAX20RideBell-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/53-SabianAAX20RideBell-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="54" />
+	<opcode name="pan" value="63" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/54-Tambourine-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/54-Tambourine-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/54-Tambourine-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/54-Tambourine-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/54-Tambourine-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="55" />
+	<opcode name="pan" value="-16" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/55-ZildjianA10Splash-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/55-ZildjianA10Splash-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/55-ZildjianA10Splash-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/55-ZildjianA10Splash-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/55-ZildjianA10Splash-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="56" />
+	<opcode name="pan" value="-63" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/56-Cowbell-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/56-Cowbell-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/56-Cowbell-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/56-Cowbell-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/56-Cowbell-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="8" />
+	<opcode name="key" value="57" />
+	<opcode name="pan" value="24" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/57-SabianAAX17Crash-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/57-SabianAAX17Crash-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/57-SabianAAX17Crash-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/57-SabianAAX17Crash-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/57-SabianAAX17Crash-5.ogg" />
+</region>
+<group>
+	<opcode name="group" value="9" />
+	<opcode name="key" value="58" />
+	<opcode name="pan" value="24" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="off_by" value="8" />
+	<opcode name="offby" value="8" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="sample" value="Samples/58-SabianAAX17CrashChoke.ogg" />
+</region>
+<group>
+	<opcode name="key" value="59" />
+	<opcode name="pan" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/59-SabianAAX20RideShank-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/59-SabianAAX20RideShank-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/59-SabianAAX20RideShank-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/59-SabianAAX20RideShank-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/59-SabianAAX20RideShank-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="60" />
+	<opcode name="pan" value="-48" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/60-Paiste2002-22-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/60-Paiste2002-22-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/60-Paiste2002-22-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/60-Paiste2002-22-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/60-Paiste2002-22-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="61" />
+	<opcode name="pan" value="-20" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/61-RotoTomHi-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/61-RotoTomHi-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/61-RotoTomHi-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/61-RotoTomHi-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/61-RotoTomHi-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="62" />
+	<opcode name="pan" value="20" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/62-RotoTomMid-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/62-RotoTomMid-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/62-RotoTomMid-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/62-RotoTomMid-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/62-RotoTomMid-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="63" />
+	<opcode name="pan" value="0" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/63-RotoTomLo-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/63-RotoTomLo-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/63-RotoTomLo-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/63-RotoTomLo-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/63-RotoTomLo-5.ogg" />
+</region>
+<group>
+	<opcode name="key" value="64" />
+	<opcode name="pan" value="-63" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="26" />
+	<opcode name="sample" value="Samples/64-Maraca-1.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="52" />
+	<opcode name="sample" value="Samples/64-Maraca-2.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="77" />
+	<opcode name="sample" value="Samples/64-Maraca-3.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="sample" value="Samples/64-Maraca-4.ogg" />
+</region>
+<region>
+	<opcode name="lovel" value="103" />
+	<opcode name="sample" value="Samples/64-Maraca-5.ogg" />
+</region>
